@@ -2,7 +2,7 @@
 
 Matcha is a dating website like meetic.  
   
-The back works as an API REST developed with Slim4 micro-framework.
+The back works as an API REST developed with Slim4 micro-framework.  
 The front is developped with ReactJs.
 
 ## How to launch it
