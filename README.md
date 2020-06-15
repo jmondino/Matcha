@@ -13,7 +13,7 @@ Edit the path of `DocumentRoot` and `<Directory>` to `(.../)Matcha/code/Back/pub
 `(.../)mamp/apache2/conf/httpd.conf`
 
   
-Edit variables $user, $paswd to your own phpmyadmin configuration in :  
+Edit variables `$user`, `$paswd` to your own phpmyadmin configuration in :  
 `Matcha/back/config/database.php`
 
   
