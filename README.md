@@ -14,7 +14,7 @@ Edit the path of `DocumentRoot` and `<Directory>` to `(.../)Matcha/code/Back/pub
 
   
 Edit variables $user, $paswd to your own phpmyadmin configuration in :  
-Matcha/back/config/database.php
+`Matcha/back/config/database.php`
 
   
 Install [composer](https://getcomposer.org/)  
